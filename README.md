@@ -1,5 +1,5 @@
 # Conversor_de_monedas
-Conversor de monedas con tasa de cambio constante. 
+Conversor de monedas con tasa de cambio fluctuante. 
 
 Consulta tanto el presupuesto disponible como la tasa de cambio del día. 
 
