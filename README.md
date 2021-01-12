@@ -5,4 +5,4 @@ Consulta tanto el presupuesto disponible como la tasa de cambio del día.
 
 Entrega valores sin decimales
 
-Código detallado en conversor.py
+Código detallado en _conversor.py_
