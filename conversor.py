@@ -1,3 +1,5 @@
+#Compilador en línea
+# https://www.programiz.com/python-programming/online-compiler/
 Bolivares= input("¿Cuántos Bolívares tienes disponible?: ")
 Bolivares= float(Bolivares)
 Valor_dolar= input("¿A cuánto está cotizando el dolar?: ")
